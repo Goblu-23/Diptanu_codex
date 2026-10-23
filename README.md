@@ -1,2 +1,2 @@
 # Diptanu_codex
-This is my first project
+This is my c language first project
